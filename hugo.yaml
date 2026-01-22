@@ -1,0 +1,57 @@
+baseURL: "https://babskhalidson.com/"
+title: Babs Khalidson
+theme: PaperMod
+
+pagination:
+  pagerSize: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Babs Khalidson
+  description: "Personal website and blog"
+  author: Babs Khalidson
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  UseHugoToc: true
+
+  assets:
+    favicon: "/assets/images/favicon.ico"
+    favicon16x16: "/assets/images/favicon-96x96.png"
+    favicon32x32: "/assets/images/favicon-96x96.png"
+    apple_touch_icon: "/assets/images/apple-touch-icon.png"
+
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: Welcome to my website
+
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 10
+
+markup:
+  highlight:
+    noClasses: false
+
+caches:
+  images:
+    dir: :cacheDir/images
