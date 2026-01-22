@@ -1,0 +1,98 @@
+---
+---
+
+.site-header {
+  padding: 2rem 1rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.header-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--text-color);
+  text-decoration: none;
+  transition: opacity 0.2s;
+  
+  &:hover {
+    opacity: 0.7;
+  }
+}
+
+.blog-chip {
+  position: absolute;
+  left: 0;
+  padding: 0.5rem 1rem;
+  background: var(--chip-bg);
+  color: var(--chip-text);
+  border-radius: 20px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+  
+  &:hover {
+    background: var(--chip-hover-bg);
+    transform: translateY(-1px);
+  }
+}
+
+.theme-toggle {
+  position: absolute;
+  right: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.toggle-track {
+  display: block;
+  width: 48px;
+  height: 24px;
+  background: var(--toggle-bg);
+  border-radius: 12px;
+  position: relative;
+  transition: background 0.3s;
+}
+
+.toggle-thumb {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  background: white;
+  border-radius: 50%;
+  transition: transform 0.3s;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+[data-theme="dark"] .toggle-thumb {
+  transform: translateX(24px);
+}
+
+:root {
+  --text-color: #333;
+  --border-color: #e0e0e0;
+  --chip-bg: #f0f0f0;
+  --chip-text: #333;
+  --chip-hover-bg: #e0e0e0;
+  --toggle-bg: #ccc;
+}
+
+[data-theme="dark"] {
+  --text-color: #e0e0e0;
+  --border-color: #333;
+  --chip-bg: #2a2a2a;
+  --chip-text: #e0e0e0;
+  --chip-hover-bg: #3a3a3a;
+  --toggle-bg: #4a4a4a;
+}

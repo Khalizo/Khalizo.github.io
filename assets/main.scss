@@ -1,0 +1,44 @@
+---
+---
+
+@import "tale";
+
+/* Dark mode support */
+:root {
+  --bg-color: #fff;
+  --text-color: #333;
+  --link-color: #4a9ae1;
+  --border-color: #ddd;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #1a1a1a;
+    --text-color: #e0e0e0;
+    --link-color: #6eb5ff;
+    --border-color: #333;
+  }
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a {
+  color: var(--link-color);
+}
+
+.post-line,
+hr {
+  border-color: var(--border-color);
+}
+
+code {
+  background-color: var(--border-color);
+}
+
+.catalogue-item {
+  border-bottom: 1px solid var(--border-color);
+}
