@@ -37,13 +37,33 @@ params:
     favicon32x32: "/assets/images/favicon-96x96.png"
     apple_touch_icon: "/assets/images/apple-touch-icon.png"
 
-  homeInfoParams:
-    Title: "Hi there 👋"
-    Content: Welcome to my website
+  profileMode:
+    enabled: true
+    title: "Babs Khalidson"
+    subtitle: "Welcome to my blog"
+    imageUrl: "/images/profile.jpg"
+    imageWidth: 150
+    imageHeight: 150
+    imageTitle: "Babs Khalidson"
+    buttons:
+      - name: Blog
+        url: /posts/
+
+  socialIcons:
+    - name: x
+      url: "https://x.com/babskhalidson"
+    - name: github
+      url: "https://github.com/Khalizo"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/babskhalidson/"
+    - name: instagram
+      url: "https://www.instagram.com/babs.khalidson/"
+    - name: email
+      url: "mailto:khalidsonbabs@gmail.com"
 
 menu:
   main:
-    - identifier: blog
+    - identifier: posts
       name: Blog
       url: /posts/
       weight: 10
