@@ -1,9 +1,10 @@
 baseURL: "https://babskhalidson.com/"
 title: Babs Khalidson
 theme: PaperMod
+languageCode: en-us
 
 pagination:
-  pagerSize: 5
+  pagerSize: 10
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -17,19 +18,27 @@ minify:
 params:
   env: production
   title: Babs Khalidson
-  description: "Personal website and blog"
+  description: "Document my learning notes"
   author: Babs Khalidson
-  DateFormat: "January 2, 2006"
-  defaultTheme: auto
-  disableThemeToggle: false
+  DateFormat: "Jan 2, 2006"
+  defaultTheme: light
+  disableThemeToggle: true
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
-  ShowWordCount: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
   UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
 
   assets:
     favicon: "/assets/images/favicon.ico"
@@ -37,17 +46,17 @@ params:
     favicon32x32: "/assets/images/favicon-96x96.png"
     apple_touch_icon: "/assets/images/apple-touch-icon.png"
 
+  label:
+    text: "Babs Khalidson"
+    icon: /assets/images/favicon.ico
+    iconHeight: 35
+
   profileMode:
-    enabled: true
-    title: "Babs Khalidson"
-    subtitle: "Welcome to my blog"
-    imageUrl: "/images/profile.jpg"
-    imageWidth: 150
-    imageHeight: 150
-    imageTitle: "Babs Khalidson"
-    buttons:
-      - name: Blog
-        url: /posts/
+    enabled: false
+
+  homeInfoParams:
+    Title: " "
+    Content: ""
 
   socialIcons:
     - name: x
@@ -56,21 +65,35 @@ params:
       url: "https://github.com/Khalizo"
     - name: linkedin
       url: "https://www.linkedin.com/in/babskhalidson/"
-    - name: instagram
-      url: "https://www.instagram.com/babs.khalidson/"
     - name: email
       url: "mailto:khalidsonbabs@gmail.com"
 
 menu:
   main:
-    - identifier: posts
-      name: Blog
-      url: /posts/
+    - identifier: archive
+      name: Archive
+      url: /archives/
       weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 markup:
   highlight:
     noClasses: false
+    lineNos: false
+    style: monokai
 
 caches:
   images:
