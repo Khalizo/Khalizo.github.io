@@ -21,8 +21,8 @@ params:
   description: "Document my learning notes"
   author: Babs Khalidson
   DateFormat: "Jan 2, 2006"
-  defaultTheme: light
-  disableThemeToggle: true
+  defaultTheme: dark
+  disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: false
