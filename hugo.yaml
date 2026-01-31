@@ -3,7 +3,7 @@ title: Babs Khalidson
 theme: PaperMod
 
 pagination:
-  pagerSize: 5
+  pagerSize: 10
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -30,6 +30,7 @@ params:
   ShowCodeCopyButtons: true
   ShowWordCount: true
   UseHugoToc: true
+  ShowFullTextinRSS: true
 
   assets:
     favicon: "/assets/images/favicon.ico"
@@ -38,16 +39,14 @@ params:
     apple_touch_icon: "/assets/images/apple-touch-icon.png"
 
   profileMode:
-    enabled: true
-    title: "Babs Khalidson"
-    subtitle: "Welcome to my blog"
-    imageUrl: "/images/profile.jpg"
-    imageWidth: 150
-    imageHeight: 150
-    imageTitle: "Babs Khalidson"
-    buttons:
-      - name: Blog
-        url: /posts/
+    enabled: false
+
+  homeInfoParams:
+    Title: "Babs Khalidson"
+    Content: |
+      Welcome to my blog where I write about meditation, technology, and life.
+      
+      [X](https://x.com/babskhalidson) · [GitHub](https://github.com/Khalizo) · [LinkedIn](https://www.linkedin.com/in/babskhalidson/) · [Instagram](https://www.instagram.com/babs.khalidson/) · [Email](mailto:khalidsonbabs@gmail.com)
 
   socialIcons:
     - name: x
@@ -60,13 +59,6 @@ params:
       url: "https://www.instagram.com/babs.khalidson/"
     - name: email
       url: "mailto:khalidsonbabs@gmail.com"
-
-menu:
-  main:
-    - identifier: posts
-      name: Blog
-      url: /posts/
-      weight: 10
 
 markup:
   highlight:
