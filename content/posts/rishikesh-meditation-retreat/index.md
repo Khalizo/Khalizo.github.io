@@ -20,7 +20,7 @@ As I was navigating some significant decisions in my career and life, I felt cal
 
 The [retreat](https://bookretreats.com/r/11-day-vipassana-silent-awakening-meditation-program-in-india?a=jqfxn) was held at the [Abhyasa Yogmath Ashram](https://www.abhyasayogmath.com/), which is a beautiful ashram nestled in the Himalayan jungle near the Ganges River. The program was 11 days and included 7 days of silence from days 4 to 11. We also enjoyed a trip to the nearby waterfall on day 3 which was lots of fun!
 
-![Ashram view](IMG-20250826-WA0022.jpg)
+![Ashram view](IMG-20250826-WA0021.jpg)
 
 A typical silence day schedule would look like:
 
