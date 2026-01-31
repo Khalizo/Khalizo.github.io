@@ -1,6 +1,6 @@
 ---
 title: "My 11-Day Silent Meditation Retreat in Rishikesh: Learning Pranayama, Vipassana, and Finding Clarity"
-date: 2025-08-26
+date: 2026-01-31
 draft: false
 tags: ["meditation", "yoga", "pranayama", "vipassana", "travel", "india"]
 author: "Babs Khalidson"
