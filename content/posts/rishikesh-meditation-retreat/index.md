@@ -10,10 +10,6 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
-cover:
-    image: "IMG-20250826-WA0022.jpg"
-    alt: "Abhyasa Yogmath Ashram in Rishikesh"
-    caption: "The beautiful ashram nestled in the Himalayan jungle"
 ---
 
 Looking back on 2025, I spent 11 days in Rishikesh, India, for a [silent retreat](https://bookretreats.com/r/11-day-vipassana-silent-awakening-meditation-program-in-india?a=jqfxn) to deepen my understanding of yoga and meditation.
