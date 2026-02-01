@@ -37,7 +37,8 @@ git push
 ```
 content/posts/          # Blog posts (each in own folder)
 static/images/          # Site-wide images (profile photo, etc.)
-assets/images/          # Favicon files
+static/                 # Published root (favicons, manifest, CNAME)
+assets/images/          # Design assets (not published unless copied to static/)
 hugo.yaml               # Site configuration
 themes/PaperMod/        # Theme (git submodule)
 ```
@@ -47,12 +48,45 @@ themes/PaperMod/        # Theme (git submodule)
 - **Profile photo**: Add to `static/images/profile.jpg`
 - **Social links**: Edit `params.socialIcons` in `hugo.yaml`
 - **Menu items**: Edit `menu.main` in `hugo.yaml`
+- **Favicons/manifest**: Must live in `static/` (e.g. `static/favicon.ico`, `static/site.webmanifest`)
+- **Custom domain**: Keep `static/CNAME` in sync with `CNAME`
+
+## GitHub Pages Deployment (Prevent 404s)
+
+This repo uses GitHub Actions to build Hugo and publish `public/`. If Pages is set
+to “Deploy from branch”, the site will 404 because the repo root does not contain
+an `index.html`.
+
+### Required Settings
+- **Pages build type**: **GitHub Actions** (not “Deploy from branch”)
+- **Custom domain**: `babskhalidson.com`
+
+### Quick verification
+```bash
+gh api repos/Khalizo/Khalizo.github.io/pages
+```
+Ensure `build_type` is `workflow` and `cname` is `babskhalidson.com`.
+
+### If the site shows a 404
+1. Check Actions ran successfully:
+   ```bash
+   gh run list -R Khalizo/Khalizo.github.io --limit 5
+   ```
+2. If build type is wrong, switch back to Actions:
+   ```bash
+   gh api -X PUT repos/Khalizo/Khalizo.github.io/pages -f build_type=workflow -f cname=babskhalidson.com -F https_enforced=true
+   ```
+3. Re-run the deploy workflow:
+   ```bash
+   gh workflow run "Build and deploy" -R Khalizo/Khalizo.github.io
+   ```
 
 ## Troubleshooting
 
 - **Build fails**: Run `hugo --gc --minify` locally first
 - **Images not showing**: Use relative paths, keep images with post
 - **Theme issues**: Run `git submodule update --init --recursive`
+- **Homepage 404**: Pages is likely set to “Deploy from branch”; set build type to GitHub Actions
 
 ## Key Commands
 
