@@ -1,0 +1,17 @@
+{{- $parts := slice -}}
+
+{{- if not .Date.IsZero -}}
+  {{- $parts = $parts | append (printf "Date: %s" (.Date | time.Format (default "Jan 2, 2006" site.Params.DateFormat))) -}}
+{{- end -}}
+
+{{- if (.Param "ShowReadingTime") -}}
+  {{- $parts = $parts | append (printf "Estimated Reading Time: %d min" .ReadingTime) -}}
+{{- end -}}
+
+{{- if not (.Param "hideAuthor") -}}
+  {{- with (partial "author.html" .) -}}
+    {{- $parts = $parts | append (printf "Author: %s" .) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- delimit $parts " | " -}}
