@@ -1,5 +1,7 @@
 # Agent Instructions for Managing babskhalidson.com
 
+**Important:** Do **not** switch GitHub Pages to “Deploy from branch”. This site is deployed via GitHub Actions; changing the build type will cause a 404 at the root domain.
+
 ## Local Development Workflow
 
 **ALWAYS test locally before pushing to GitHub to avoid CI failures.**
