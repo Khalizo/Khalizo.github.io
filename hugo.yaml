@@ -59,8 +59,7 @@ params:
     enabled: false
 
   homeInfoParams:
-    Title: "Hi, I'm Babs."
-    Content: "I work in AI, and this is where I share what I'm learning."
+    Content: "Hi, I'm Babs 👋 I'm an AI engineer and scientist focused on agentic systems, LLM post-training, and world models. I'm happy to share what I'm learning along the way."
     imageUrl: "/images/profile.jpg"
     imageTitle: "Babs Khalidson"
 

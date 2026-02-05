@@ -7,9 +7,11 @@
         </div>
         {{- end }}
         <div class="home-hero-body">
+            {{- with .Title }}
             <header class="entry-header">
-                <h1>{{ .Title | markdownify }}</h1>
+                <h1>{{ . | markdownify }}</h1>
             </header>
+            {{- end }}
             <div class="entry-content">
                 {{ .Content | markdownify }}
             </div>
