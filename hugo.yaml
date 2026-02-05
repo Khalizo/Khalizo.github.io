@@ -59,7 +59,7 @@ params:
     enabled: false
 
   homeInfoParams:
-    Content: "Hi, I'm Babs 👋 I'm an AI engineer and scientist focused on agentic systems, LLM post-training, and world models. I'm happy to share what I'm learning along the way."
+    Content: "Hi, I'm Babs 👋 I'm an AI engineer and scientist focused on agentic systems, LLM post-training, and world models. Expect notes from my curiosities and musings."
     imageUrl: "/images/profile.jpg"
     imageTitle: "Babs Khalidson"
 
