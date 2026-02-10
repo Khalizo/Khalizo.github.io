@@ -79,10 +79,6 @@ params:
 
 menu:
   main:
-    - identifier: archive
-      name: Archive
-      url: /archives/
-      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
