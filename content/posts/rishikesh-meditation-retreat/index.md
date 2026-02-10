@@ -12,7 +12,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ---
 
-Looking back on 2025, I spent 11 days in Rishikesh, India, for a [silent retreat](https://bookretreats.com/r/11-day-vipassana-silent-awakening-meditation-program-in-india?a=jqfxn) to deepen my understanding of yoga and meditation.
+One of the best things I did in 2025 was deliberately choosing *less*: less noise, less input, less distraction. For 11 days in Rishikesh, India, I joined a [silent retreat](https://bookretreats.com/r/11-day-vipassana-silent-awakening-meditation-program-in-india?a=jqfxn) to deepen my practice of pranayama, meditation, and yoga. It gave me a level of clarity I didn’t realise I was missing.
 
 I've been meditating for about 12 years (mainly self-taught via YouTube and some in-person classes in London), but I wanted to experience it from an authentic perspective at an actual ashram. Reading books like the [Autobiography of a Yogi](https://amzn.to/4qqY6Z9) and [Raja Yoga](https://amzn.to/49FTDKZ) had me curious for years.
 
@@ -47,11 +47,7 @@ In Sanskrit, Prana = life force and yama = control - so it's essentially a pract
 
 Some of them include:
 
----
 
-***Note:** This post shares my personal experience at a retreat in India. I'm not a yoga or pranayama instructor—just someone documenting what I learned. If you're interested in pranayama, I'd recommend learning from a qualified teacher who can guide you properly.*
-
----
 
 ### 1. Kapalbhati Pranayama (Skull Shining Breath)
 
@@ -85,7 +81,7 @@ Start with 20-30 breaths per round and gradually build up to 40-50 breaths. I'd 
 
 **My Experience**
 
-I've incorporated Kapalbhati into my daily schedule, and it has provided me with a great sense of mental clarity and increased energy throughout the day. During our morning pranayama sessions at the ashram, this practice always left me feeling energised - lit up like a Christmas tree 🎄. There's something about the rhythmic, forceful exhalations that seems to clear mental fog and wake up every cell in your body. It became my go-to practice for mornings when I needed that extra boost of clarity and focus.
+I've incorporated Kapalbhati into my daily schedule, and it has provided me with a great sense of mental clarity and increased energy throughout the day. During our morning pranayama sessions at the ashram, this practice always left me feeling energised. There's something about the rhythmic, forceful exhalations that seems to clear mental fog and wake up every cell in your body. It became my go-to practice for mornings when I needed that extra boost of clarity and focus.
 
 **Benefits**
 
@@ -385,4 +381,7 @@ Big thanks to Saurabh, Saurav, Shivani and everyone else from Abhyasa Yogmath fo
 
 ---
 
-*Some links are affiliate links. I only recommend resources I've personally used.*
+**Note:** 
+- *This post shares my personal experience at a retreat in India. I'm not a yoga or pranayama instructor—just someone documenting what I learned. If you're interested in pranayama, I'd recommend learning from a qualified teacher who can guide you properly.*
+- *Some links are affiliate links. I only recommend resources I've personally used.*
+
