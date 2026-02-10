@@ -82,6 +82,10 @@ params:
     postWidth: 530
     postHeight: 303
 
+  cloudflareWebAnalytics:
+    enabled: true
+    token: "96ad7a6359fe4cfcb51e4dd690d4701d"
+
 menu:
   main:
     - identifier: tags
