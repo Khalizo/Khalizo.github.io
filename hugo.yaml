@@ -73,6 +73,10 @@ params:
     - name: email
       url: "mailto:khalidsonbabs@gmail.com"
 
+  beehiiv:
+    enabled: true
+    formUrl: "https://subscribe-forms.beehiiv.com/253981b8-3677-44bc-ac1d-5666fb74a935"
+
 menu:
   main:
     - identifier: archive

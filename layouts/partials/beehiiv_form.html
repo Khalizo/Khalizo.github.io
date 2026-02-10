@@ -1,0 +1,14 @@
+{{- $cfg := site.Params.beehiiv -}}
+{{- if and $cfg $cfg.enabled $cfg.formUrl -}}
+<div class="newsletter-signup">
+  <iframe
+    src="{{ $cfg.formUrl }}"
+    class="beehiiv-embed"
+    data-test-id="beehiiv-embed"
+    frameborder="0"
+    scrolling="no"
+    title="Newsletter signup"
+  ></iframe>
+</div>
+{{- end -}}
+
