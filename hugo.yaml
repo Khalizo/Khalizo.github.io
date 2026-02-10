@@ -75,7 +75,12 @@ params:
 
   beehiiv:
     enabled: true
-    formUrl: "https://subscribe-forms.beehiiv.com/253981b8-3677-44bc-ac1d-5666fb74a935"
+    homeFormUrl: "https://subscribe-forms.beehiiv.com/4b6babde-69e9-4335-b086-4b5848d5d8a1"
+    homeWidth: 560
+    homeHeight: 207
+    postFormUrl: "https://subscribe-forms.beehiiv.com/253981b8-3677-44bc-ac1d-5666fb74a935"
+    postWidth: 530
+    postHeight: 303
 
 menu:
   main:

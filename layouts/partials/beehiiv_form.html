@@ -1,17 +1,33 @@
 {{- $cfg := site.Params.beehiiv -}}
-{{- if and $cfg $cfg.enabled $cfg.formUrl -}}
+{{- if and $cfg $cfg.enabled -}}
 {{- $variant := cond .IsHome "home" "post" -}}
+{{- $src := "" -}}
+{{- $w := 560 -}}
+{{- $h := 303 -}}
+
+{{- if .IsHome -}}
+  {{- $src = $cfg.homeFormUrl | default "" -}}
+  {{- $w = $cfg.homeWidth | default 560 -}}
+  {{- $h = $cfg.homeHeight | default 207 -}}
+{{- else -}}
+  {{- $src = $cfg.postFormUrl | default "" -}}
+  {{- $w = $cfg.postWidth | default 530 -}}
+  {{- $h = $cfg.postHeight | default 303 -}}
+{{- end -}}
+
+{{- if $src -}}
 <section class="newsletter-signup newsletter-signup--{{ $variant }}" aria-label="Newsletter signup">
   <div class="newsletter-signup__frame">
     <iframe
-      src="{{ $cfg.formUrl }}"
+      src="{{ $src }}"
       class="beehiiv-embed"
       data-test-id="beehiiv-embed"
       frameborder="0"
       scrolling="no"
       title="Newsletter signup"
-      style="width: 530px; height: 122px; margin: 0; border-radius: 0px 0px 0px 0px !important; background-color: transparent; box-shadow: 0 0 #0000; max-width: 100%;"
+      style="width: {{ $w }}px; height: {{ $h }}px; margin: 0; border-radius: 0px 0px 0px 0px !important; background-color: transparent; box-shadow: 0 0 #0000; max-width: 100%;"
     ></iframe>
   </div>
 </section>
+{{- end -}}
 {{- end -}}
