@@ -8,27 +8,23 @@
   width: min(720px, 100%);
   display: flex;
   justify-content: center;
-  padding: 18px;
-  border: 1px solid var(--border);
-  border-radius: 14px;
-  background: var(--entry);
+  /* Let the Beehiiv form styling own the visuals; avoid double borders/frames. */
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
 }
 
 .newsletter-signup .beehiiv-embed {
   width: 560px;
   max-width: 100%;
-  height: 339px;
+  height: 303px;
   margin: 0;
   border: 0;
-  border-radius: 12px;
+  border-radius: 0;
   background-color: transparent;
   box-shadow: 0 0 #0000;
-}
-
-/* Beehiiv forms are rendered in a cross-origin iframe, so we can't theme them directly.
-   In dark mode, approximate PaperMod styling by inverting the iframe colors. */
-html[data-theme="dark"] .newsletter-signup .beehiiv-embed {
-  filter: invert(1) hue-rotate(180deg);
+  display: block;
 }
 
 /* Minor spacing tweaks per placement. */
