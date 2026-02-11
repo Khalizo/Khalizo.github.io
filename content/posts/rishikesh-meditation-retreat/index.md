@@ -87,7 +87,7 @@ I've incorporated Kapalbhati into my daily schedule, and it has provided me with
 
 **Benefits**
 
-What fascinated me most about Kapalbhati was learning about its traditional name - "Skull Shining Breath." Our instructors explained this refers to how the practice creates a "shining" quality in the mind, awakening dormant brain centers responsible for subtle perception. I found the rhythmic breathing naturally quieted my mental chatter, making it ideal preparation for deeper meditation sessions. It also helped me release stored emotional tensions, bringing this sense of lightness I hadn't expected.
+What fascinated me most about Kapalbhati was learning about its traditional name - "Skull Shining Breath." Our instructors explained this refers to how the practice creates a "shining" quality in the mind, awakening dormant brain centres responsible for subtle perception. I found the rhythmic breathing naturally quieted my mental chatter, making it ideal preparation for deeper meditation sessions. It also helped me release stored emotional tensions, bringing this sense of lightness I hadn't expected.
 
 From a physical standpoint, Kapalbhati is traditionally described as a "Frontal Brain Cleaning Technique," with research suggesting it may help drain excess mucus from the paranasal cavities [[3]](https://journals.lww.com/jopc/fulltext/2023/04010/effect_of_vatakarma_kapalbhati_on_sinus_headache.7.aspx). Clinical studies have shown significant improvement in sinus headaches, sleep quality, and sinonasal outcomes [[4]](https://doaj.org/article/ca042a8c44d544f0bd2d57bd9b4006fe)[[3]](https://journals.lww.com/jopc/fulltext/2023/04010/effect_of_vatakarma_kapalbhati_on_sinus_headache.7.aspx), which makes sense given how the practice works.
 
@@ -116,7 +116,7 @@ In Sanskrit, *Bhastrika* means "bellows" - like the tool used to stoke a fire. T
 1. Sit in a comfortable meditative pose with your spine erect
 2. Place your hands on your knees, palms facing upward or in chin mudra (thumb and index finger touching)
 3. Close your eyes and relax your body
-4. Take a few deep breaths to center yourself
+4. Take a few deep breaths to centre yourself
 
 *Technique:*
 
@@ -139,7 +139,7 @@ During our morning pranayama sessions, Bhastrika was always the practice that wo
 
 After the retreat, I was curious about what was actually happening in my body during Bhastrika, so I did some research into the science behind it. What I found was pretty fascinating.
 
-From a neurological standpoint, a randomized controlled trial using fMRI found that 4 weeks of Bhastrika significantly reduced anxiety and negative emotions while actually changing brain regions involved in emotional processing - particularly the amygdala, anterior cingulate, anterior insula, and prefrontal cortex [[8]](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2020.00467/full). EEG studies showed that Bhastrika increases delta waves (which indicate sustained calming effects) during and after practice [[9]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11953524/). That explains why I'd feel both energized and calm after sessions.
+From a neurological standpoint, a randomised controlled trial using fMRI found that 4 weeks of Bhastrika significantly reduced anxiety and negative emotions while actually changing brain regions involved in emotional processing - particularly the amygdala, anterior cingulate, anterior insula, and prefrontal cortex [[8]](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2020.00467/full). EEG studies showed that Bhastrika increases delta waves (which indicate sustained calming effects) during and after practice [[9]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11953524/). That explains why I'd feel both energised and calm after sessions.
 
 The respiratory benefits were equally impressive. A one-month controlled study found that Bhastrika practitioners showed significant improvements in all lung parameters: FVC (forced vital capacity) increased by 38.1%, along with improvements in FEV1, PEFR, and MVV [[10]](https://pmc.ncbi.nlm.nih.gov/articles/PMC6746052/). The improvements were even greater than those seen in a running exercise control group. I definitely felt like I could breathe more deeply and efficiently after practicing regularly.
 
@@ -187,7 +187,7 @@ Practice for 5-10 minutes - start with 10-15 breaths and gradually increase. You
 
 **My Experience**
 
-Sheetali was a welcome break during our morning pranayama sessions. We'd practice it in between Kapalbhati and Bhastrika, ending with Anulom Vilom - so Sheetali gave us a chance to settle before ramping back up. The sensation is quite remarkable - you can actually feel the cool air traveling down your throat and spreading throughout your chest. It wasn't just physically cooling; there was this mental calming effect too. When my mind felt overstimulated or agitated (which happened occasionally during the silence), a few minutes of Sheetali would bring everything back to balance. It became this natural counterpoint to the more intense practices.
+Sheetali was a welcome break during our morning pranayama sessions. We'd practice it in between Kapalbhati and Bhastrika, ending with Anulom Vilom - so Sheetali gave us a chance to settle before ramping back up. The sensation is quite remarkable - you can actually feel the cool air travelling down your throat and spreading throughout your chest. It wasn't just physically cooling; there was this mental calming effect too. When my mind felt overstimulated or agitated (which happened occasionally during the silence), a few minutes of Sheetali would bring everything back to balance. It became this natural counterpoint to the more intense practices.
 
 **Benefits**
 
@@ -283,7 +283,7 @@ It's these subtle adjustments - the angle of your chin, the straightness of your
 
 ## Learning 4: Vegetarian Sattvic Diet
 
-During the retreat we were fed very well on a vegetarian sattvic diet. A vegetarian sattvic diet is rooted in Ayurvedic philosophy and centers on fresh, whole, minimally processed foods that are considered "pure" and life-giving. Each meal was freshly prepared, lightly cooked or raw.
+During the retreat we were fed very well on a vegetarian sattvic diet. A vegetarian sattvic diet is rooted in Ayurvedic philosophy and centres on fresh, whole, minimally processed foods that are considered "pure" and life-giving. Each meal was freshly prepared, lightly cooked or raw.
 
 I was initially worried about losing weight during the retreat - eleven days of vegetarian food while being very physically active. However, I actually gained weight, had a lot of energy and retained muscle. Completely changed my perspective on diet! It made me realise that the quality and freshness of food matters far more than I'd thought, and that vegetarian eating can be incredibly nourishing when done right.
 
@@ -386,4 +386,3 @@ Big thanks to Saurabh, Saurav, Shivani, Ishani and everyone else from Abhyasa Yo
 **Note:** 
 - *This post shares my personal experience at a retreat in India. I'm not a yoga or pranayama instructor—just someone documenting what I learned. If you're interested in pranayama, I'd recommend learning from a qualified teacher who can guide you properly.*
 - *Some links are affiliate links. I only recommend resources I've personally used.*
-
