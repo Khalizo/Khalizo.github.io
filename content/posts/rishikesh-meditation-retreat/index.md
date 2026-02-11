@@ -12,6 +12,8 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ---
 
+*Special thanks to Mum and Saurabh for review and feedback*
+
 One of the best things I did in 2025 was deliberately choosing *less*: less noise, less input, less distraction. For 11 days in Rishikesh, India, I joined a [silent retreat](https://bookretreats.com/r/11-day-vipassana-silent-awakening-meditation-program-in-india?a=jqfxn) to deepen my practice of pranayama, meditation, and yoga. It gave me a level of clarity I didn’t realise I was missing.
 
 I've been meditating for about 12 years (mainly self-taught via YouTube and some in-person classes in London), but I wanted to experience it from an authentic perspective at an actual ashram. Reading books like the [Autobiography of a Yogi](https://amzn.to/4qqY6Z9) and [Raja Yoga](https://amzn.to/49FTDKZ) had me curious for years.
@@ -333,7 +335,7 @@ These practices come from ancient yogic traditions that have been passed down th
 
 If you've been curious about deeper meditation practice or have felt the pull toward a silent retreat, I can't recommend this experience enough. Sometimes you need to completely unplug to truly see what's next.
 
-Big thanks to Saurabh, Saurav, Shivani and everyone else from Abhyasa Yogmath for making it such a great experience.
+Big thanks to Saurabh, Saurav, Shivani, Ishani and everyone else from Abhyasa Yogmath for making it such a great experience.
 
 ![IMG-20250826-WA0028.jpg](IMG-20250826-WA0028.jpg)
 
