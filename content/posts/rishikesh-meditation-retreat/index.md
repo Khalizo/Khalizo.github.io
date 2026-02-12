@@ -14,11 +14,7 @@ ShowWordCount: true
 
 *Special thanks to Mum and Saurabh for review and feedback*
 
-One of the best things I did in 2025 was deliberately choosing *less*: less noise, less input, less distraction. For 11 days in Rishikesh, India, I joined a [silent retreat](https://bookretreats.com/r/11-day-vipassana-silent-awakening-meditation-program-in-india?a=jqfxn) to deepen my practice of pranayama, meditation, and yoga. It gave me a level of clarity I didn’t realise I was missing.
-
-I've been meditating for about 12 years (mainly self-taught via YouTube and some in-person classes in London), but I wanted to experience it from an authentic perspective at an actual ashram. Reading books like the [Autobiography of a Yogi](https://amzn.to/4qqY6Z9) and [Raja Yoga](https://amzn.to/49FTDKZ) had me curious for years.
-
-As I was navigating some significant decisions in my career and life, I felt called to go deeper. I wanted to step away from the constant stream of information, deadlines, and digital noise to gain clarity on what really mattered.
+One of the best things I did in 2025 was deliberately choosing *less*: less noise, less input, less distraction. I've been meditating for about 12 years (mainly self-taught via YouTube and some in-person classes in London), but as I was navigating some significant decisions in my career and life, I wanted to go deeper. Reading books like the [Autobiography of a Yogi](https://amzn.to/4qqY6Z9) and [Raja Yoga](https://amzn.to/49FTDKZ) had me curious about experiencing meditation from an authentic perspective at an actual ashram. So I stepped away from the constant stream of information and deadlines, and spent 11 days at a [silent retreat](https://bookretreats.com/r/11-day-vipassana-silent-awakening-meditation-program-in-india?a=jqfxn) in Rishikesh, India to deepen my practice of pranayama, meditation, and yoga. It gave me a level of clarity I didn't realise I was missing.
 
 The [retreat](https://bookretreats.com/r/11-day-vipassana-silent-awakening-meditation-program-in-india?a=jqfxn) was held at the [Abhyasa Yogmath Ashram](https://www.abhyasayogmath.com/), which is a beautiful ashram nestled in the Himalayan jungle near the Ganges River. The program was 11 days and included 7 days of silence from days 4 to 11. We also enjoyed a trip to the nearby waterfall on day 3 which was lots of fun!
 
@@ -57,7 +53,7 @@ Some of them include:
 
 In Sanskrit, *Kapal* means cranium/skull while *Bhati* means shining/illuminate/knowledge. Together, Kapalbhati translates to "Skull Shining Breath" or "Frontal Brain Purification," suggesting it illuminates and purifies the skull and surrounding organs [[1]](https://www.banyanbotanicals.com/pages/ayurvedic-kapalabhati-pranayama). In Hatha yoga, Kapalbhati is considered one of the six **ShatKarmas** (purification practices) designed to remove impurities from the body [[2]](https://www.arhantayoga.org/blog/shat-kriyas-yogic-cleansing-guide/). Unlike most breathing exercises that emphasize controlled inhalation, Kapalbhati reverses this pattern by making the exhalation active and forceful while allowing the inhalation to happen passively and effortlessly.
 
-**How to Practice**
+{{< collapse summary="**How to Practice** *(click to expand)*" >}}
 
 *Preparation:*
 
@@ -81,6 +77,8 @@ In Sanskrit, *Kapal* means cranium/skull while *Bhati* means shining/illuminate/
 
 Start with 20-30 breaths per round and gradually build up to 40-50 breaths. I'd practice 3-5 rounds with rest in between - anywhere from 5-30 minutes total depending on your experience. Best to practice on an empty stomach in the early morning. Focus on the forceful exhalation - the inhalation takes care of itself. If you feel dizzy, just stop and breathe normally. Don't practice during menstruation or pregnancy.
 
+{{< /collapse >}}
+
 **My Experience**
 
 I've incorporated Kapalbhati into my daily schedule, and it has provided me with a great sense of mental clarity and increased energy throughout the day. During our morning pranayama sessions at the ashram, this practice always left me feeling energised. There's something about the rhythmic, forceful exhalations that seems to clear mental fog and wake up every cell in your body. It became my go-to practice for mornings when I needed that extra boost of clarity and focus.
@@ -95,7 +93,7 @@ I was also curious about what was happening in my brain during the practice. Res
 
 The digestive and metabolic benefits were unexpected for me. The forceful exhalations strengthen your abdominal muscles and stimulate abdominal organs, improving their function and vitality. Interestingly, an eight-week study on 60 overweight resident doctors showed weight loss and reduced waist/hip circumference [[6]](https://www.jemds.com/data_pdf/5_dinkar.pdf), which suggests the practice may have metabolic effects.
 
-Laslty, a study with runners found that 3 weeks of daily Kapalbhati practice (combined with Bhastrika and Dirgha breathing, 30 minutes per day) led to improvements in forced vital capacity (FVC) and forced expiratory volume (FEV1) [[7]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7039472/). What's particularly interesting is that participants reported the high-intensity running "felt easier" after the breathing practice - their ratings of perceived exertion for leg fatigue decreased during hard efforts, even though their actual running economy didn't change significantly in this short timeframe. This suggests Kapalbhati may help with the subjective experience of hard exercise, potentially delaying the perception of fatigue.
+Lastly, a study with runners found that 3 weeks of daily Kapalbhati practice (combined with Bhastrika and Dirgha breathing, 30 minutes per day) led to improvements in forced vital capacity (FVC) and forced expiratory volume (FEV1) [[7]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7039472/). What's particularly interesting is that participants reported the high-intensity running "felt easier" after the breathing practice - their ratings of perceived exertion for leg fatigue decreased during hard efforts, even though their actual running economy didn't change significantly in this short timeframe. This suggests Kapalbhati may help with the subjective experience of hard exercise, potentially delaying the perception of fatigue.
 
 **Video Resource**:
 
@@ -109,7 +107,7 @@ Laslty, a study with runners found that 3 weeks of daily Kapalbhati practice (co
 
 In Sanskrit, *Bhastrika* means "bellows" - like the tool used to stoke a fire. This pranayama generates internal heat and energy through rapid, forceful breathing that mimics the action of a blacksmith's bellows. Our instructors taught us that this technique is particularly powerful for increasing vitality and preparing the body for deeper meditation practices.
 
-**How to Practice**
+{{< collapse summary="**How to Practice** *(click to expand)*" >}}
 
 *Preparation:*
 
@@ -130,6 +128,8 @@ In Sanskrit, *Bhastrika* means "bellows" - like the tool used to stoke a fire. T
 **Duration & Important Notes:**
 
 Start with 10-15 rapid breaths per round and build up to 30-40 as you get more comfortable. Practice 3-5 rounds with rest between each - after each round, breathe normally and notice the sensations. This one's more vigorous than Kapalbhati, so start slowly. Stop if you feel dizzy or lightheaded. Not recommended if you have high blood pressure, heart conditions, or during pregnancy. Best practiced on an empty stomach in the morning.
+
+{{< /collapse >}}
 
 **My Experience**
 
@@ -159,7 +159,7 @@ Initial research with runners practicing Bhastrika (along with Kapalbhati and Di
 
 In Sanskrit, *Sheetali* means "cooling" or "soothing." This unique breathing technique uses the tongue to cool the incoming air, creating a refreshing effect throughout the body. Our instructors introduced this practice as the perfect counterbalance to the heating pranayamas like Bhastrika and Kapalbhati, helping us understand how breath can be used to regulate body temperature and calm an overactive mind.
 
-**How to Practice**
+{{< collapse summary="**How to Practice** *(click to expand)*" >}}
 
 *Preparation:*
 
@@ -184,6 +184,8 @@ Practice Sheetkari instead - keep teeth gently closed, separate lips slightly, a
 **Duration & Important Notes:**
 
 Practice for 5-10 minutes - start with 10-15 breaths and gradually increase. You can practice this multiple times daily, especially in hot weather or when you're feeling emotionally heated. Avoid practicing in very cold weather or if you have respiratory issues like asthma. Also skip it if you have low blood pressure. This is a gentle practice that's suitable for most people.
+
+{{< /collapse >}}
 
 **My Experience**
 
@@ -213,7 +215,7 @@ For visual guidance on Sheetali practice:
 
 In Sanskrit, *Anulom* means "with the natural order" and *Vilom* means "against the natural order." This pranayama alternates breathing between the left and right nostrils, balancing the energy channels (nadis) in the body. Our instructors explained this as one of the most important pranayamas for achieving mental balance and preparing for meditation, as it harmonises the left and right hemispheres of the brain.
 
-**How to Practice**
+{{< collapse summary="**How to Practice** *(click to expand)*" >}}
 
 *Preparation:*
 
@@ -242,6 +244,8 @@ Inhale Left → Exhale Right → Inhale Right → Exhale Left (= 1 round)
 **Duration & Important Notes:**
 
 Start with 5-10 rounds and gradually build to 10-15 minutes of practice. Keep the breath slow and steady - don't rush. The breath should be silent and comfortable, not strained. Traditionally the ratio is 1:2 (inhale:exhale) or equal, but just keep it comfortable. If one nostril is blocked, practice gentle breathing until it clears. This one's safe for most people, including during pregnancy (with medical guidance).
+
+{{< /collapse >}}
 
 **My Experience**
 
@@ -299,21 +303,13 @@ There's something about physically purifying your system that creates a sense of
 
 ---
 
-## Learning 6: Reduced Sleep, Increased Restoration
+## Learning 6: Shifts in Daily Awareness
 
-As the days progressed during the retreat, I noticed that I started sleeping less but was still feeling restored. Apparently, this was typical and could be due to the restorative effects that meditation has on the mental body - your body requires less sleep when the mind is getting such deep rest through meditation practice.
+The retreat changed my relationship with two things I'd taken for granted: sleep and movement.
 
-I went from my usual 7-8 hours to maybe 5-6 hours, yet I'd wake up feeling more refreshed than I typically do at home. It was fascinating to experience firsthand how meditation can substitute for some of the restoration we normally get only through sleep.
+As the days progressed, I started sleeping less but feeling more restored — going from 7-8 hours to 5-6 yet waking up more refreshed than at home. The instructors said this was typical: meditation provides such deep rest that the body needs less sleep to recover.
 
----
-
-## Learning 7: Walking Meditations
-
-In between our practice sessions and meal times, we would have some spare time. During that spare time we were encouraged to do "walking meditations" which involved walking super slowly in silence while focusing on the present moment.
-
-I found these walking meditations interesting because a normal walk from, let's say, the meditation hall to the dining hall would take about 5 minutes or less at a normal pace, but with the walking meditation you could take up to 20 minutes. I couldn't imagine doing this on the streets of London where everyone is rushing from A to B, but on retreat it was perfectly plausible because there was NOTHING else to do!
-
-The practice forces you to be present with each step, feeling your foot lift, move through the air, and make contact with the ground again. It's simple but profound - and surprisingly challenging to maintain that level of awareness for an extended period.
+Movement shifted too. Between sessions, we practised "walking meditations" — walking super slowly in silence while focusing on the present moment. A normal 5-minute walk to the dining hall would take 20 minutes. I couldn't imagine doing this on the streets of London, but on retreat it was perfectly plausible because there was nothing else to do. The practice forces you to be present with each step — simple but profound, and surprisingly hard to sustain.
 
 ---
 
@@ -333,7 +329,7 @@ Overall, I had a profound experience on this silent retreat. It was valuable to 
 
 These practices come from ancient yogic traditions that have been passed down through generations. I'm grateful to have learned them at Abhyasa Yogmath Ashram in Rishikesh, where these teachings are preserved and shared with respect for their origins.
 
-If you've been curious about deeper meditation practice or have felt the pull toward a silent retreat, I can't recommend this experience enough. Sometimes you need to completely unplug to truly see what's next.
+If you've been curious about deeper meditation practice or have felt the pull toward a silent retreat, I can't recommend this experience enough. You can [book the same retreat here](https://bookretreats.com/r/11-day-vipassana-silent-awakening-meditation-program-in-india?a=jqfxn). Sometimes you need to completely unplug to truly see what's next.
 
 Big thanks to Saurabh, Saurav, Shivani, Ishani and everyone else from Abhyasa Yogmath for making it such a great experience.
 
