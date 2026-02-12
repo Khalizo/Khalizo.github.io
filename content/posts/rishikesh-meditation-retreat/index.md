@@ -303,13 +303,21 @@ There's something about physically purifying your system that creates a sense of
 
 ---
 
-## Learning 6: Shifts in Daily Awareness
+## Learning 6: Reduced Sleep, Increased Restoration
 
-The retreat changed my relationship with two things I'd taken for granted: sleep and movement.
+As the days progressed during the retreat, I noticed that I started sleeping less but was still feeling restored. Apparently, this was typical and could be due to the restorative effects that meditation has on the mental body - your body requires less sleep when the mind is getting such deep rest through meditation practice.
 
-As the days progressed, I started sleeping less but feeling more restored — going from 7-8 hours to 5-6 yet waking up more refreshed than at home. The instructors said this was typical: meditation provides such deep rest that the body needs less sleep to recover.
+I went from my usual 7-8 hours to maybe 5-6 hours, yet I'd wake up feeling more refreshed than I typically do at home. It was fascinating to experience firsthand how meditation can substitute for some of the restoration we normally get only through sleep.
 
-Movement shifted too. Between sessions, we practised "walking meditations" — walking super slowly in silence while focusing on the present moment. A normal 5-minute walk to the dining hall would take 20 minutes. I couldn't imagine doing this on the streets of London, but on retreat it was perfectly plausible because there was nothing else to do. The practice forces you to be present with each step — simple but profound, and surprisingly hard to sustain.
+---
+
+## Learning 7: Walking Meditations
+
+In between our practice sessions and meal times, we would have some spare time. During that spare time we were encouraged to do "walking meditations" which involved walking super slowly in silence while focusing on the present moment.
+
+I found these walking meditations interesting because a normal walk from, let's say, the meditation hall to the dining hall would take about 5 minutes or less at a normal pace, but with the walking meditation you could take up to 20 minutes. I couldn't imagine doing this on the streets of London where everyone is rushing from A to B, but on retreat it was perfectly plausible because there was NOTHING else to do!
+
+The practice forces you to be present with each step, feeling your foot lift, move through the air, and make contact with the ground again. It's simple but profound - and surprisingly challenging to maintain that level of awareness for an extended period.
 
 ---
 
